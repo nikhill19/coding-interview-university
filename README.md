@@ -631,7 +631,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [X] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
 
 - ### Queue
-    - [ X [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
+    - [X] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
     - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
     - [ ] Cost:
         - a bad implementation using linked list where you enqueue at head and dequeue at tail would be O(n)
